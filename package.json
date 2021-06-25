@@ -1,0 +1,25 @@
+{
+  "name": "tbell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tacoBell.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpaceLobster2311/tbell.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpaceLobster2311/tbell/issues"
+  },
+  "homepage": "https://github.com/SpaceLobster2311/tbell#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "inquirer": "^8.1.1"
+  }
+}
